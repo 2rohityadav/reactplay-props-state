@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "About React",
+    "description": "Getting Start with React",
+    "published": "2018-06-29",
+    "updated": "2018-06-29",
+    "content": "This is my blog about in React wow 🍺"
+  },
+  {
+    "id": "2",
+    "title": "About Redux",
+    "description": "Getting Start with Redux",
+    "published": "2018-06-30",
+    "updated": "2018-06-30",
+    "content": "This is my blog about in Redux wow 🍺"
+  }
+]
